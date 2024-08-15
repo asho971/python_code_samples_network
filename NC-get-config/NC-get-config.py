@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/venv python
 #
 # Copyright (c) 2017  Jason Frazier <jafrazie@cisco.com>
 # All rights reserved.
